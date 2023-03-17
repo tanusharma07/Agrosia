@@ -135,6 +135,7 @@ a{
     height: 800px;
     background-repeat: no-repeat;
     width: 100%;
+    background-size: 100%;
 }
 .over-lay{
     background: rgb(21, 21, 21, 0.66);
