@@ -132,14 +132,14 @@ a{
 }
 .banner{
     background-image: url(../image/banner.png);
-    height: 800px;
+
     background-repeat: no-repeat;
     width: 100%;
     background-size: 100%;
+line-height: 0;
 }
 .over-lay{
     background: rgb(21, 21, 21, 0.66);
-    height: 800px;
 }
 .banner-details{
     display: flex;
